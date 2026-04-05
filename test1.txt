@@ -1,10 +1,2 @@
- Le volume dans le lecteur C s'appelle Windows-SSD
- Le num‚ro de s‚rie du volume est 782E-65C7
+change1
 
- R‚pertoire de C:\Users\Pavel\Documents\3_Testing\Teil I\Git und GitHub\Git_Neverstoplearning
-
-2026-04-06  00:24    <DIR>          .
-2026-04-06  00:20    <DIR>          ..
-2026-04-06  00:24                 0 test1.txt
-               1 fichier(s)                0 octets
-               2 R‚p(s)  216ÿ304ÿ099ÿ328 octets libres
